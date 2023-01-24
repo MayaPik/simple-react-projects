@@ -1,0 +1,33 @@
+.books {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: lightblue;
+  justify-content: center;
+}
+
+.header {
+  background-color: black;
+  color: antiquewhite;
+  height: 2em;
+  font-size: x-large;
+  text-align: center;
+  padding-top: 1em;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+  margin-right: auto;
+}
+
+.searchBar input {
+  margin: 1em;
+  width: 20vw;
+  padding: 1em;
+}
+
+.searchBar select {
+  margin: 1em;
+  padding: 1em;
+}

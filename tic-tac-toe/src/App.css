@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(241, 219, 222);
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  line-height: 4em;
+  align-items: center;
+  text-align: center;
+}
